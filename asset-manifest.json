@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YogaWebsite/static/css/main.77775b52.css",
+    "main.js": "/YogaWebsite/static/js/main.c839c2ba.js",
+    "static/js/787.f1bc496c.chunk.js": "/YogaWebsite/static/js/787.f1bc496c.chunk.js",
+    "index.html": "/YogaWebsite/index.html",
+    "main.77775b52.css.map": "/YogaWebsite/static/css/main.77775b52.css.map",
+    "main.c839c2ba.js.map": "/YogaWebsite/static/js/main.c839c2ba.js.map",
+    "787.f1bc496c.chunk.js.map": "/YogaWebsite/static/js/787.f1bc496c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77775b52.css",
+    "static/js/main.c839c2ba.js"
+  ]
+}
